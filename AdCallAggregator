@@ -1,0 +1,70 @@
+var bidDetailsMap = {
+    "DEF_Desktop_InPost_Top@728x90": {
+        "ecpm": 10.0000,
+        "creative_tag": "%3Cspan%20class%3D%22PubAPIAd%22%20%20id%3D%224FA17669-1DB5-4BD0-A59D-CA960F7DD0D5%22%3E%3Chtml%3E%3Cbody%3E%20%3C%2Fbody%3E%3C%2Fhtml%3E%3C%2Fspan%3E%20%3C%21--%20PubMatic%20Ad%20Ends%20--%3E",
+        "tracking_url": "http%3A%2F%2Faktrack.pubmatic.com%2FAdServer%2FAdDisplayTrackerServlet%3FoperId%3D1%26pubId%3D136000%26siteId%3D155224%26adId%3D878902%26adType%3D3%26adServerId%3D1303%26kefact%3D0.000000%26kaxefact%3D0.000000%26kadNetFrequecy%3D0%26kadwidth%3D728%26kadheight%3D90%26kadsizeid%3D7%26kltstamp%3D1529354691%26indirectAdId%3D0%26adServerOptimizerId%3D2%26ranreq%3D0.2275786848144321%26kpbmtpfact%3D0.000000%26dcId%3D1%26tldId%3D33718262%26passback%3D3%26svr%3DBID33035%26ekefact%3DwxkoW6IpBADquHLNQ5MWyJdyexYJ_gSj8sbp26na9F3FVJQd%26ekaxefact%3DwxkoW8MpBAAU_UFDqDhU8snf11XGl1bp-Xx42_S0eRGZMrjw%26ekpbmtpfact%3DwxkoW98pBADwDMWAI0oYJz7lLqXOfNNGk9GSiII6Je-6rhDU%26imprId%3D4FA17669-1DB5-4BD0-A59D-CA960F7DD0D5%26oid%3D4FA17669-1DB5-4BD0-A59D-CA960F7DD0D5%26carrierid%3D24%26crID%3D0%26cntryId%3D232%26campaignId%3D0%26isRTB%3D0%26domain%3Ddefinition.org%26pageURL%3Dhttp%253A%252F%252Fdefinition.org%252Faustralian-wildlife-outdoors%252F",
+        "width": "728",
+        "height": "90",
+        "deal_channel": 0
+    },
+    "DEF_Desktop_InPost_Mid_Left@300x250": {
+        "ecpm": 0.0000,
+        "creative_tag": "",
+        "tracking_url": "",
+        "width": "300",
+        "height": "250",
+        "deal_channel": 0
+    },
+    "DEF_Desktop_InPost_Mid_Right@300x250": {
+        "ecpm": 0.0000,
+        "creative_tag": "",
+        "tracking_url": "",
+        "width": "300",
+        "height": "250",
+        "deal_channel": 0
+    },
+    "DEF_Desktop_InPost_Bottom@728x90": {
+        "ecpm": 0.0000,
+        "creative_tag": "",
+        "tracking_url": "",
+        "width": "728",
+        "height": "90",
+        "deal_channel": 0
+    },
+    "DEF_Desktop_LeftRail@160x600": {
+        "ecpm": 10.0000,
+        "creative_tag": "%3Cspan%20class%3D%22PubAPIAd%22%20%20id%3D%22F7215603-2893-45DF-8BF6-218E7748272A%22%3E%3Chtml%3E%3Cbody%3E%20%3C%2Fbody%3E%3C%2Fhtml%3E%3C%2Fspan%3E%20%3C%21--%20PubMatic%20Ad%20Ends%20--%3E",
+        "tracking_url": "http%3A%2F%2Faktrack.pubmatic.com%2FAdServer%2FAdDisplayTrackerServlet%3FoperId%3D1%26pubId%3D136000%26siteId%3D155224%26adId%3D878903%26adType%3D3%26adServerId%3D1303%26kefact%3D0.000000%26kaxefact%3D0.000000%26kadNetFrequecy%3D0%26kadwidth%3D160%26kadheight%3D600%26kadsizeid%3D10%26kltstamp%3D1529354691%26indirectAdId%3D0%26adServerOptimizerId%3D2%26ranreq%3D0.2275786848144321%26kpbmtpfact%3D0.000000%26dcId%3D1%26tldId%3D33718262%26passback%3D3%26svr%3DBID33020%26ekefact%3DwxkoW3FfAQD_Ul-wePHVGYXWJbgGlN01_h1GDcyhln-FKTK2%26ekaxefact%3DwxkoW49fAQAAGHtggA6I_GAIOji4zdGVRCCIlLcJYDA2E5Mm%26ekpbmtpfact%3DwxkoW6tfAQDXUPdc2KNvvRABh0jU7p2OuIbxqePq_Ede4eGJ%26imprId%3DF7215603-2893-45DF-8BF6-218E7748272A%26oid%3DF7215603-2893-45DF-8BF6-218E7748272A%26carrierid%3D24%26crID%3D0%26cntryId%3D232%26campaignId%3D0%26isRTB%3D0%26domain%3Ddefinition.org%26pageURL%3Dhttp%253A%252F%252Fdefinition.org%252Faustralian-wildlife-outdoors%252F",
+        "width": "160",
+        "height": "600",
+        "deal_channel": 0
+    },
+    "DEF_Desktop_RightRail_Top@300x250": {
+        "ecpm": 10.0000,
+        "creative_tag": "%3Cspan%20class%3D%22PubAPIAd%22%20%20id%3D%229607E879-ACDA-4F76-A9B3-53A1E08F8FA9%22%3E%3Chtml%3E%3Cbody%3E%20%3C%2Fbody%3E%3C%2Fhtml%3E%3C%2Fspan%3E%20%3C%21--%20PubMatic%20Ad%20Ends%20--%3E",
+        "tracking_url": "http%3A%2F%2Faktrack.pubmatic.com%2FAdServer%2FAdDisplayTrackerServlet%3FoperId%3D1%26pubId%3D136000%26siteId%3D155224%26adId%3D878906%26adType%3D3%26adServerId%3D1303%26kefact%3D0.000000%26kaxefact%3D0.000000%26kadNetFrequecy%3D0%26kadwidth%3D300%26kadheight%3D250%26kadsizeid%3D9%26kltstamp%3D1529354691%26indirectAdId%3D0%26adServerOptimizerId%3D2%26ranreq%3D0.2275786848144321%26kpbmtpfact%3D0.000000%26dcId%3D1%26tldId%3D33718262%26passback%3D3%26svr%3DBID33354%26ekefact%3DwxkoW-ZCAwBtvQ7JFkBYXGKMlo_EmRvJ5yXke3ZYSt7T8uMP%26ekaxefact%3DwxkoWwJDAwDgifLHu0vwOw1KRVaRd_14vNU3h-WCu-VhGOE_%26ekpbmtpfact%3DwxkoWxpDAwAjGRgre4jX8BrWPfgSzllM_pizQx9QcLuPGhMu%26imprId%3D9607E879-ACDA-4F76-A9B3-53A1E08F8FA9%26oid%3D9607E879-ACDA-4F76-A9B3-53A1E08F8FA9%26carrierid%3D24%26crID%3D0%26cntryId%3D232%26campaignId%3D0%26isRTB%3D0%26domain%3Ddefinition.org%26pageURL%3Dhttp%253A%252F%252Fdefinition.org%252Faustralian-wildlife-outdoors%252F",
+        "width": "300",
+        "height": "250",
+        "deal_channel": 0
+    },
+    "DEF_Desktop_RightRail_Mid@300x600": {
+        "ecpm": 10.0000,
+        "creative_tag": "%3Cspan%20class%3D%22PubAPIAd%22%20%20id%3D%22B5C34024-2B4B-4B3F-BD34-9FAB06977353%22%3E%3Chtml%3E%3Cbody%3E%20%3C%2Fbody%3E%3C%2Fhtml%3E%3C%2Fspan%3E%20%3C%21--%20PubMatic%20Ad%20Ends%20--%3E",
+        "tracking_url": "http%3A%2F%2Faktrack.pubmatic.com%2FAdServer%2FAdDisplayTrackerServlet%3FoperId%3D1%26pubId%3D136000%26siteId%3D155224%26adId%3D878905%26adType%3D3%26adServerId%3D1303%26kefact%3D0.000000%26kaxefact%3D0.000000%26kadNetFrequecy%3D0%26kadwidth%3D300%26kadheight%3D600%26kadsizeid%3D26%26kltstamp%3D1529354691%26indirectAdId%3D0%26adServerOptimizerId%3D2%26ranreq%3D0.2275786848144321%26kpbmtpfact%3D0.000000%26dcId%3D1%26tldId%3D33718262%26passback%3D3%26svr%3DBID33019%26ekefact%3DwxkoW_xhAABK4fbV25uQ-eGrfaQ6Vkt5WzzE3l2gwon4HZte%26ekaxefact%3DwxkoWx9iAAAljL03FtlmTzibP_rX1ypcvs4ol5OfjD4GeTpm%26ekpbmtpfact%3DwxkoWz5iAABd11VfomNXXdpC4kzFSnEmmOIn7yydRO2MdYmD%26imprId%3DB5C34024-2B4B-4B3F-BD34-9FAB06977353%26oid%3DB5C34024-2B4B-4B3F-BD34-9FAB06977353%26carrierid%3D24%26crID%3D0%26cntryId%3D232%26campaignId%3D0%26isRTB%3D0%26domain%3Ddefinition.org%26pageURL%3Dhttp%253A%252F%252Fdefinition.org%252Faustralian-wildlife-outdoors%252F",
+        "width": "300",
+        "height": "600",
+        "deal_channel": 0
+    }
+}
+var progKeyValueMap = {
+    "DEF_Desktop_InPost_Top@728x90": "bidstatus=1;bid=10.0000;bidid=DEF_Desktop_InPost_Top@728x90;wdeal=",
+    "DEF_Desktop_InPost_Mid_Left@300x250": "bidstatus=0;bid=0.0000;bidid=DEF_Desktop_InPost_Mid_Left@300x250;wdeal=",
+    "DEF_Desktop_InPost_Mid_Right@300x250": "bidstatus=0;bid=0.0000;bidid=DEF_Desktop_InPost_Mid_Right@300x250;wdeal=",
+    "DEF_Desktop_InPost_Bottom@728x90": "bidstatus=0;bid=0.0000;bidid=DEF_Desktop_InPost_Bottom@728x90;wdeal=",
+    "DEF_Desktop_LeftRail@160x600": "bidstatus=1;bid=10.0000;bidid=DEF_Desktop_LeftRail@160x600;wdeal=",
+    "DEF_Desktop_RightRail_Top@300x250": "bidstatus=1;bid=10.0000;bidid=DEF_Desktop_RightRail_Top@300x250;wdeal=",
+    "DEF_Desktop_RightRail_Mid@300x600": "bidstatus=1;bid=10.0000;bidid=DEF_Desktop_RightRail_Mid@300x600;wdeal="
+}
+if (typeof pm_async_callback === 'function') {
+    pm_async_callback();
+}
